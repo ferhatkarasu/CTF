@@ -1,7 +1,6 @@
-# https://app.hackthebox.com/challenges/POP%2520Restaurant
+### https://app.hackthebox.com/challenges/POP%2520Restaurant
 
-![Açıklama](https://prnt.sc/YXNeS2WtJKt0)
-
+-> python3 exploit.py
 ```bash
 import re
 import requests
@@ -30,13 +29,7 @@ else:
 
 
 
-
-
-
-
-
-
-# Reference
+### Reference
 https://vickieli.dev/insecure%20deserialization/exploiting-php-deserialization/
 https://owasp.org/www-community/vulnerabilities/PHP_Object_Injection
 
