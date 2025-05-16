@@ -33,5 +33,6 @@ else:
 ### Reference
 - https://vickieli.dev/insecure%20deserialization/exploiting-php-deserialization/
 - https://owasp.org/www-community/vulnerabilities/PHP_Object_Injection
+- https://medium.com/@abdallahomaratya0/pop-restaurant-challenge-htb-b10989577596
 
 
