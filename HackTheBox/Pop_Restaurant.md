@@ -1,6 +1,8 @@
 ### https://app.hackthebox.com/challenges/POP%2520Restaurant
 
--> python3 exploit.py
+```bash
+python3 exploit.py
+```
 ```bash
 import re
 import requests
