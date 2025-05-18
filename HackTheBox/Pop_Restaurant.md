@@ -35,7 +35,5 @@ else:
 - https://owasp.org/www-community/vulnerabilities/PHP_Object_Injection
 - https://medium.com/@abdallahomaratya0/pop-restaurant-challenge-htb-b10989577596
 
-  - Image
-![image](https://prnt.sc/U04UeoLn619L)
 
 
